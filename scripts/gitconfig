@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# allows to push current branch with only git push
+git config --global push.default current
